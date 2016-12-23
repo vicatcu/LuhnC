@@ -14,7 +14,7 @@ int luhn(const char* cc)
 	return sum % 10 == 0;
 }
 
-int void(int argc, char * argv){
+int main(int argc, char * argv){
 
 	return 0;
 }
